@@ -21,3 +21,5 @@ common
 - 第14回(1/23)
 - 第15回(1/30)
 
+## 役立ちリンク
+- https://github.com/mixi-inc/AndroidTraining
